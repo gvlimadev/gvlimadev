@@ -1,4 +1,4 @@
-<!--# Olá, eu sou o Gabriel 👋
+# Olá, eu sou o Gabriel 👋
 
 Estudante de **Sistemas para Internet** na Universidade Estadual de Goiás (UEG), em Pires do Rio, GO. Busco estágio ou vaga júnior em **desenvolvimento back-end com Java**.
 
